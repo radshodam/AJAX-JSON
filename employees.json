@@ -1,0 +1,23 @@
+[{
+    "id": 1,
+    "Name": "hosein",
+    "job": "ashpaz",
+    "nesbat": "pedar",
+    "farzandan": { "pesar": "mohamad", "dokhtar": "fateme" }
+}, {
+    "id": 2,
+    "Name": "zahra",
+    "job": "arayeshgar",
+    "nesbat": "madar",
+    "farzandan": { "pesar": "mohamad", "dokhtar": "fateme" }
+}, {
+    "id": 3,
+    "Name": "fatemeh",
+    "job": "karmand",
+    "nesbat": "abji"
+}, {
+    "id": 4,
+    "Name": "mohamad",
+    "job": "developer",
+    "nesbat": "khodamam"
+}]
